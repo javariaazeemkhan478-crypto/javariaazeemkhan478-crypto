@@ -4,9 +4,9 @@
 
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FD1FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Building+intelligent+systems;Django+%2B+React+Developer)
 
 
-### 🎯 Full-Stack AI Engineer
 
 - 🏗️ I'm currently working on **Full-Stack AI** projects
 - 📚 I'm currently learning **AI, Gen AI, Web Development**
