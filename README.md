@@ -1,17 +1,13 @@
-### 👋 Hey, I'm [Your Name] — Full-Stack AI Engineer
+### 🎯 Full-Stack AI Engineer
 
-🧠 I design and build intelligent systems — from training models to shipping them inside real, working products
-⚛️ Full-stack developer at heart: Django powering the backend, React bringing the frontend to life
-🎯 Deeply obsessed with pixel-perfect design and code that actually solves something meaningful
-🔗 I bridge the gap between AI logic and clean, usable interfaces — because a smart model means nothing if the UX is bad
-🛠️ Comfortable across the whole stack: APIs, databases, model integration, UI polish, deployment — I like owning the full journey
-📈 Constantly learning, experimenting, and pushing projects from "just an idea" to something people actually use
-☕ Fueled by curiosity, clean commits, and probably too much coffee
+- 🏗️ I'm currently working on **Full-Stack AI** projects
+- 📚 I'm currently learning **AI, Gen AI, Web Development**
+- 💬 Ask me about **AI, ML, DL, NLP, Full-Stack Development**
+- 📫 How to reach me: **javariaazeemkhan478@gmail.com**
 
-💡 **What I care about:** building things that are smart, useful, and don't break in production
-📫 **Always open to:** collaborating on AI-powered products, full-stack builds, or just talking tech
+**Connect with me:**
 
-> "Code with intention. Design with obsession. Ship with pride."
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 
 
 
