@@ -6,9 +6,7 @@
 - 📫 How to reach me: **javariaazeemkhan478@gmail.com**
 
 ### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-prodev)
-
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="filter: invert(29%) sepia(97%) saturate(1955%) hue-rotate(180deg) brightness(95%) contrast(101%);"/>](https://www.linkedin.com/in/talha-prodev)
 ### 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,django,react,js,ts,nodejs,html,css,mysql,mongodb,git,docker,aws,vscode,linux,tensorflow,figma)
