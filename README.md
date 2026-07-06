@@ -17,7 +17,3 @@
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=python,django,react,js,ts,nodejs,html,css,mysql,mongodb,git,docker,aws,vscode,linux,tensorflow,figma)
 
-### 📈 Contribution Graph
-![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=javariaazeemkhan478-crypto&theme=tokyo-night)
-
-
