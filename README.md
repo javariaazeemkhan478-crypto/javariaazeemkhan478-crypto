@@ -7,9 +7,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/talha-prodev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="filter: invert(35%) sepia(97%) saturate(1000%) hue-rotate(180deg);"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-prodev)
 
 ### 🛠️ Tech Stack
 
