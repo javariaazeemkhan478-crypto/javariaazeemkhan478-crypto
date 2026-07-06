@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Javaria</h1>
+<h3 align="center">A passionate Full Stack AI Engineer</h3>
+
+
+
+
+
+
 ### 🎯 Full-Stack AI Engineer
 
 - 🏗️ I'm currently working on **Full-Stack AI** projects
